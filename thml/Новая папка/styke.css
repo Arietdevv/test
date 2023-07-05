@@ -1,0 +1,60 @@
+.heading {
+  color: red;
+}
+#heading-2 {
+  background-color: blue;
+}
+#heading-3 {
+  background-color: black;
+}
+#heading-4 {
+  background-color: brown;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+  border-radius: 50%;
+}
+#heading-5{
+
+}
+#header1 {
+  color: aliceblue;
+  background-color: green;
+}
+.p1 {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+.p2 {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+.p3 {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+.p4 {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+.p5 {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+.p6 {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}

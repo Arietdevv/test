@@ -1,0 +1,298 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+  background-color: #121118;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+.header {
+  background-color: white;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.classcamp {
+  width: 200px;
+  font-weight: 500;
+  margin-left: 20px;
+}
+.nav {
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+}
+.nav_block1 {
+  margin-left: 400px;
+
+  width: 500px;
+  display: flex;
+  /* justify-content: space-between; */
+  /* width: 500px; */
+}
+.sign_in {
+  margin-right: 50px;
+}
+.content {
+  color: white;
+}
+.take {
+  display: flex;
+  justify-content: center;
+  font-size: 62px;
+}
+.classcamp1 {
+  display: flex;
+  justify-content: center;
+  font-size: 28px;
+}
+.block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.create1 {
+  text-align: center;
+  width: 288px;
+  height: 61px;
+  border-radius: 8px;
+  background: #ff4343;
+  line-height: 60px;
+  font-size: 23px;
+}
+
+.btn-p {
+  color: #fff;
+  font-size: 14px;
+  font-family: Roboto;
+  letter-spacing: 0.42px;
+  text-align: center;
+}
+
+.images {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.images_2 {
+  position: absolute;
+  top: 0;
+  right: 160px;
+}
+
+.shoot {
+  padding-top: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.shoot-title h1 {
+  color: #fff;
+  font-size: 58px;
+  letter-spacing: 1.92px;
+  margin-bottom: 20px;
+}
+
+.shoot-title p {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 26px;
+  line-height: 37.8px;
+  letter-spacing: 1.08px;
+}
+
+.shoot-images {
+  position: relative;
+}
+/* .shoot-img1 {
+    transform: rotate(30deg);
+} */
+
+.shoot-img {
+  position: absolute;
+  top: -72px;
+  right: -65px;
+}
+.txt {
+  display: flex;
+}
+.txt2 {
+  position: relative;
+  margin-left: 200px;
+}
+.txt1 {
+  position: absolute;
+  left: 100px;
+}
+.sometimes h1 {
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 1.92px;
+  color: white;
+}
+.elements {
+  display: flex;
+  margin-top: 388px;
+}
+.learn {
+  display: flex;
+  flex-direction: column;
+  margin-left: 150px;
+}
+.learn h1 {
+  font-size: 54px;
+  color: white;
+}
+.learn p {
+  font-size: 27px;
+  line-height: 37px;
+  color: white;
+}
+.elements_1 {
+  margin-left: 100px;
+}
+.share {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  margin-top: 360px;
+}
+.share_txt {
+  flex-direction: column;
+}
+.share_txt h1 {
+  color: white;
+  font-size: 58px;
+  font-weight: 400;
+}
+.share_txt p {
+  font-size: 25px;
+  font-weight: 400;
+  color: white;
+}
+.by {
+  font-size: 61px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  margin-top: 316px;
+}
+.and {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 26px;
+  color: white;
+}
+.images_block {
+  display: flex;
+  justify-content: space-between;
+}
+.group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #8bffb0;
+  margin-top: 335px;
+}
+.offer1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 58px;
+  color: white;
+}
+.but {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 58px;
+  color: white;
+}
+.set {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 27px;
+}
+.course {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 27px;
+}
+.rec9 {
+  margin-left: 200px;
+}
+.block_pick {
+  background: #1d1b24;
+  width: 900px;
+  margin-left: 250px;
+}
+.what1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 63px;
+  color: #fff;
+  font-weight: 400;
+}
+.template {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 27px;
+  font-weight: 400;
+}
+.crea {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #ff4343;
+  width: 281px;
+  height: 66px;
+  color: white;
+  margin-left: 300px;
+}
+
+.block_lesson {
+  background-image: url(./img/img_logo.png);
+  width: 1440px;
+  height: 432px;
+}
+.lesson {
+  color: #fff;
+  text-align: center;
+  font-size: 42px;
+  font-weight: 700;
+}
+.minute {
+  color: #fff;
+  text-align: center;
+  font-size: 42px;
+  font-weight: 700;
+}
+.Springer {
+  color: rgba(255, 255, 255, 0.7);
+  text-align: center;
+  font-size: 23px;
+  font-weight: 400;
+}
+.feat {
+  color: #fff;
+  font-size: 58px;
+  font-weight: 400;
+}
